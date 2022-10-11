@@ -1,0 +1,65 @@
+- setup di bitbucket#
+- setup template page#
+- setup template parent#
+- setup attribute page color style section#
+- setup image size admin#
+- ambil semua page di bawah page home
+
+- setup gallery video test
+  - setting reading video#
+  - slick video desktop
+  - video mobile
+- setup field price list admin#
+- ambil data price list#
+
+https://goo.gl/maps/zQk844CNTaR2
+
+
+- social media di setting#
+- contact, address, phone, phone2 di setting#
+- event scroll menu#
+- event select package#
+- footer#
+- event phpmailer contact
+- responsive
+	- slide
+	- about us
+	- gallery video
+	- list price
+	- term and condition
+	- faq
+	- contact
+
+
+
+
+new pass cpanel
+verdestrator123
+
+
+- slide
+- about us
+- gallery video
+- list price
+- term and condition
+- faq
+- contact
+
+
+
+
+
+jadwal
+- 18 10 2016	2jam
+- 19 10 2016	2jam
+
+
+
+Promo Discount 20%
+Include: 
+- Transportation during photo seasson 
+- Flash drive with and exclusive box or send by online (choose one) 
+Exclude: 
+- Make up and hairdo 
+- Entrance fee and location fee 
+- Shipping fee
